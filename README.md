@@ -21,12 +21,12 @@ Very long press (5s+, LED turns on at 2s and off again at 5s) will reset ID back
 After a button press LED will flash ID
 You can push button while LED is flashing and it will change ID and restart ID flash indication.
 
-Cycle power to go back to normal mode.
+Cycle power to go back to normal mode and save your emitter ID.
 
-Wrapping is a little weird to keep 1's digit consistent.
+Wrapping is a little weird to keep 1's digit consistent.</br>
 63+1 = 1 </br>
 54+10 = 4 </br>
-59+10 = 9
-60+10 = 10
-61+10 = 1
-63+10 = 3
+59+10 = 9 </br>
+60+10 = 10 </br>
+61+10 = 1 </br>
+63+10 = 3 </br>
